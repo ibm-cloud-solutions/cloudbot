@@ -1,5 +1,5 @@
 {
-  "name": "@ibm/cloudbot",
+  "name": "cloudbot",
   "version": "0.0.16",
   "description": "The famed IBM Cloudbot",
   "main": "index.js",
