@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/ibm-cloud-solutions/cloudbot.svg?branch=master)](https://travis-ci.org/ibm-cloud-solutions/cloudbot)
+[![Dependency Status](https://dependencyci.com/github/ibm-cloud-solutions/cloudbot/badge)](https://dependencyci.com/github/ibm-cloud-solutions/cloudbot)
+[![npm](https://img.shields.io/npm/v/cloudbot.svg?maxAge=2592000)](https://www.npmjs.com/package/cloudbot)
+
 # cloudbot
 
 - A robot may not injure a human being or, through inaction, allow a human being to come to harm.
@@ -12,7 +16,7 @@
   * [License](#license)
   * [Contribute](#contribute)
 
-## Setup <a id="setup"></a>
+## Setup
 
 Setting up your bot is simple. Install the dependencies:
 
@@ -20,7 +24,7 @@ Setting up your bot is simple. Install the dependencies:
 npm install
 ```
 
-## Usage <a id="usage"></a>
+## Usage
 
 With the dependencies installed, starting cloudbot requires the environment variables `HUBOT_NAME` and `ADAPTER` be set. The booting sequence will begin with
 
@@ -30,14 +34,14 @@ npm start
 
 Certain scripts may require other environment variables to be set. Check out the documentation for each of these scripts, as it will provide the proper information.
 
-## Enhancing <a id="enhancing"></a>
+## Enhancing
 
 More functionality can be added to cloudbot; it knows no limits. Add the script to the dependency list in `package.json`, and reference that script in the array of `external-scripts.json`.
 
-## License <a id="license"></a>
+## License
 
-See [LICENSE.txt](./LICENSE.txt) for license information.
+See [LICENSE.txt](https://github.com/ibm-cloud-solutions/cloudbot/blob/master/LICENSE.txt) for license information.
 
-## Contribute <a id="contribute"></a>
+## Contribute
 
-Please check out our [Contributing Guidelines](./CONTRIBUTING.md) for detailed information on how you can lend a hand.
+Please check out our [Contributing Guidelines](https://github.com/ibm-cloud-solutions/cloudbot/blob/master/CONTRIBUTING.md) for detailed information on how you can lend a hand.
