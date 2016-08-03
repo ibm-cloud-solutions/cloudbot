@@ -128,5 +128,5 @@ If you decide to not install a linter addon, or cannot, you can run `npm run lin
 Please sign our Contributor License Agreement (CLA) before sending pull requests. For any code
 changes to be accepted, the CLA must be signed.
 
-* [For individuals](./cla-individual.pdf).
-* [For corporations](./cla-corporate.pdf).
+* [For individuals](https://github.com/ibm-cloud-solutions/cloudbot/blob/master/cla-individual.pdf).
+* [For corporations](https://github.com/ibm-cloud-solutions/cloudbot/blob/master/cla-corporate.pdf).

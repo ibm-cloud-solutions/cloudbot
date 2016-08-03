@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
-    "test": "echo \"Error: no test specified\" && exit 0",
-    "release": "node tools/publish"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "ibm-cloud-solutions",
   "license": "Apache-2.0",
