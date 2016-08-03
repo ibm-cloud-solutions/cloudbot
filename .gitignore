@@ -1,0 +1,8 @@
+node_modules
+.hubot_history
+npm-debug.log
+config
+coverage
+gh-pages
+.npmrc
+.DS_Store

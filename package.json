@@ -1,0 +1,65 @@
+{
+  "name": "cloudbot",
+  "version": "0.0.16",
+  "description": "The famed IBM Cloudbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "release": "node tools/publish"
+  },
+  "author": "ibm-cloud-solutions",
+  "license": "Apache-2.0",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "bluemix",
+    "cloud",
+    "watson",
+    "slack",
+    "service",
+    "suggest",
+    "ibm",
+    "ibm cloud"
+  ],
+  "devDependencies": {
+    "shelljs": "^0.7.0"
+  },
+  "peerDependencies": {
+    "i18n": "^0.8.2",
+    "i18n-2": "*"
+  },
+  "dependencies": {
+    "coffee-script": "1.10.0",
+    "hubot-emit-tweeter": "latest",
+    "hubot-ibmcloud-activity": "latest",
+    "hubot-ibmcloud-alerts": "latest",
+    "hubot-ibmcloud-app-management": "latest",
+    "hubot-ibmcloud-audit": "latest",
+    "hubot-ibmcloud-auth": "latest",
+    "hubot-ibmcloud-container-management": "latest",
+    "hubot-ibmcloud-deploy": "latest",
+    "hubot-ibmcloud-formatter": "latest",
+    "hubot-ibmcloud-github-issues": "latest",
+    "hubot-ibmcloud-logger": "latest",
+    "hubot-ibmcloud-nlc": "latest",
+    "hubot-ibmcloud-objectstorage": "latest",
+    "hubot-ibmcloud-openwhisk": "latest",
+    "hubot-ibmcloud-service-management": "latest",
+    "hubot-ibmcloud-service-status": "latest",
+    "hubot-ibmcloud-service-suggest": "latest",
+    "hubot-ibmcloud-space-management": "latest",
+    "hubot-ibmcloud-translate": "latest",
+    "hubot-ibmcloud-twitter": "latest",
+    "hubot-ibmcloud-virtualserver": "latest",
+    "hubot-ibmcloud-weather": "latest",
+    "hubot-versions": "latest",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-help": "^0.2.0",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.4.2"
+  }
+}
