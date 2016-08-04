@@ -3,6 +3,10 @@
   "version": "0.0.16",
   "description": "The famed IBM Cloudbot",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ibm-cloud-solutions/cloudbot",
+    "type": "git"
+  },
   "scripts": {
     "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
     "test": "echo \"Error: no test specified\" && exit 0"
