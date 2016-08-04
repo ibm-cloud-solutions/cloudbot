@@ -25,6 +25,8 @@
     "shelljs": "^0.7.0"
   },
   "peerDependencies": {
+    "i18n": "^0.8.2",
+    "i18n-2": "*"
   },
   "dependencies": {
     "coffee-script": "1.10.0",
