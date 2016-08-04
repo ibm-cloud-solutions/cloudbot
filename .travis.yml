@@ -1,7 +1,9 @@
 language: node_js
 node_js:
-  - '4.4'
+  - '4.2'
 install:
+  - npm install hubot-ibmcloud-cogntive-lib
+  - export HUBOT_DB_PATH=~/
   - travis_wait 30 npm install
 script:
   - 'npm run lint'
