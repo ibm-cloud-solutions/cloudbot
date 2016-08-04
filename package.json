@@ -3,6 +3,10 @@
   "version": "0.0.16",
   "description": "The famed IBM Cloudbot",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/ibm-cloud-solutions/cloudbot",
+    "type": "git"
+  },
   "scripts": {
     "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
     "test": "echo \"Error: no test specified\" && exit 0"
@@ -25,12 +29,14 @@
     "shelljs": "^0.7.0"
   },
   "peerDependencies": {
-    "i18n": "^0.8.2",
     "i18n-2": "*"
   },
   "dependencies": {
     "coffee-script": "1.10.0",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.1",
     "hubot-emit-tweeter": "latest",
+    "hubot-help": "^0.2.0",
     "hubot-ibmcloud-activity": "latest",
     "hubot-ibmcloud-alerts": "latest",
     "hubot-ibmcloud-app-management": "latest",
@@ -52,13 +58,10 @@
     "hubot-ibmcloud-twitter": "latest",
     "hubot-ibmcloud-virtualserver": "latest",
     "hubot-ibmcloud-weather": "latest",
-    "hubot-versions": "latest",
-    "hubot": "^2.19.0",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-help": "^0.2.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.4.2"
+    "hubot-slack": "^4.0.2",
+    "hubot-versions": "latest"
   }
 }
