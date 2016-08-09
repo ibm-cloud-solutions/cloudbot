@@ -34,6 +34,37 @@ npm start
 
 Certain scripts may require other environment variables to be set. Check out the documentation for each of these scripts, as it will provide the proper information.
 
+## Included Scripts
+* [hubot-diagnostics](https://github.com/hubot-scripts/hubot-diagnostics)
+* [hubot-emit-tweeter](https://github.com/ibm-cloud-solutions/hubot-emit-tweeter)
+* [hubot-environment](https://github.com/ibm-cloud-solutions/hubot-environment)
+* [hubot-help](https://github.com/hubot-scripts/hubot-help)
+* [hubot-pugme](https://github.com/hubot-scripts/hubot-pugme)
+* [hubot-redis-brain](https://github.com/hubot-scripts/hubot-redis-brain)
+* [hubot-shipit](https://github.com/hubot-scripts/hubot-shipit)
+* [hubot-ibmcloud-activity](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-activity)
+* [hubot-ibmcloud-alerts](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-alerts)
+* [hubot-ibmcloud-app-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-app-management)
+* [hubot-ibmcloud-audit](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-audit)
+* [hubot-ibmcloud-auth](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-auth)
+* [hubot-ibmcloud-container-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-container-management)
+* [hubot-ibmcloud-deploy](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-deploy)
+* [hubot-ibmcloud-formatter](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-formatter)
+* [hubot-ibmcloud-github-issues](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-github-issues)
+* [hubot-ibmcloud-logger](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-logger)
+* [hubot-ibmcloud-nlc](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-nlc)
+* [hubot-ibmcloud-objectstorage](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-objectstorage)
+* [hubot-ibmcloud-openwhisk](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-openwhisk)
+* [hubot-ibmcloud-service-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-management)
+* [hubot-ibmcloud-service-status](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-status)
+* [hubot-ibmcloud-service-suggest](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-suggest)
+* [hubot-ibmcloud-space-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-space-management)
+* [hubot-ibmcloud-translate](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-translate)
+* [hubot-ibmcloud-twitter](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-twitter)
+* [hubot-ibmcloud-virtualserver](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-virtualserver)
+* [hubot-ibmcloud-weather](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-weather)
+* [hubot-versions](https://github.com/ibm-cloud-solutions/hubot-versions)
+
 ## Enhancing
 
 More functionality can be added to cloudbot; it knows no limits. Add the script to the dependency list in `package.json`, and reference that script in the array of `external-scripts.json`.
