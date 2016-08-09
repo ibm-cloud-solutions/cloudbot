@@ -1,6 +1,7 @@
 [
     "hubot-diagnostics",
     "hubot-emit-tweeter",
+    "hubot-environment",
     "hubot-help",
     "hubot-pugme",
     "hubot-redis-brain",

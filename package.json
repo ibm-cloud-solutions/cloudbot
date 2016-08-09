@@ -36,6 +36,7 @@
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-emit-tweeter": "latest",
+    "hubot-environment": "0.0.1",
     "hubot-help": "^0.2.0",
     "hubot-ibmcloud-activity": "latest",
     "hubot-ibmcloud-alerts": "latest",
