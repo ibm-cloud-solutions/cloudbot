@@ -47,6 +47,7 @@ Certain scripts may require other environment variables to be set. Check out the
 * [hubot-ibmcloud-app-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-app-management)
 * [hubot-ibmcloud-audit](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-audit)
 * [hubot-ibmcloud-auth](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-auth)
+* [hubot-ibmcloud-cloudant](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-cloudant)
 * [hubot-ibmcloud-container-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-container-management)
 * [hubot-ibmcloud-deploy](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-deploy)
 * [hubot-ibmcloud-formatter](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-formatter)

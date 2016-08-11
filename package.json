@@ -43,6 +43,7 @@
     "hubot-ibmcloud-app-management": "latest",
     "hubot-ibmcloud-audit": "latest",
     "hubot-ibmcloud-auth": "latest",
+    "hubot-ibmcloud-cloudant": "latest",
     "hubot-ibmcloud-container-management": "latest",
     "hubot-ibmcloud-deploy": "latest",
     "hubot-ibmcloud-formatter": "latest",
