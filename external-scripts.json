@@ -11,6 +11,7 @@
     "hubot-ibmcloud-app-management",
     "hubot-ibmcloud-audit",
     "hubot-ibmcloud-auth",
+    "hubot-ibmcloud-cloudant",
     "hubot-ibmcloud-container-management",
     "hubot-ibmcloud-deploy",
     "hubot-ibmcloud-formatter",
