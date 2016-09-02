@@ -70,7 +70,6 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.0.2",
     "hubot-versions": "latest",
-	"i18n-2": "^0.6.3",
 	"lodash": "^4.13.1",
 	"request": "^2.74.0",
 	"watson-developer-cloud": "^1.12.0",
