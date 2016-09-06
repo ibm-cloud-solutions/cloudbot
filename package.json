@@ -32,18 +32,23 @@
     "i18n-2": "*"
   },
   "dependencies": {
+    "cf-client": "latest",
     "coffee-script": "1.10.0",
     "hubot": "^2.19.0",
+    "hubot-cf-convenience": "latest",
+    "hubot-conversation": "^1.1.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-emit-tweeter": "latest",
     "hubot-environment": "latest",
     "hubot-help": "^0.2.0",
     "hubot-ibmcloud-activity": "latest",
+    "hubot-ibmcloud-activity-emitter": "latest",
     "hubot-ibmcloud-alerts": "latest",
     "hubot-ibmcloud-app-management": "latest",
     "hubot-ibmcloud-audit": "latest",
     "hubot-ibmcloud-auth": "latest",
     "hubot-ibmcloud-cloudant": "latest",
+    "hubot-ibmcloud-cognitive-lib": "latest",
     "hubot-ibmcloud-container-management": "latest",
     "hubot-ibmcloud-deploy": "latest",
     "hubot-ibmcloud-formatter": "latest",
@@ -58,12 +63,16 @@
     "hubot-ibmcloud-space-management": "latest",
     "hubot-ibmcloud-translate": "latest",
     "hubot-ibmcloud-twitter": "latest",
+    "hubot-ibmcloud-utils": "latest",
     "hubot-ibmcloud-virtualserver": "latest",
     "hubot-ibmcloud-weather": "latest",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.0.2",
-    "hubot-versions": "latest"
+    "hubot-versions": "latest",
+    "lodash": "^4.13.1",
+    "request": "^2.74.0",
+    "watson-developer-cloud": "^2.1.4"
   }
 }
