@@ -8,6 +8,7 @@
     "type": "git"
   },
   "scripts": {
+    "preinstall": "npm install hubot-ibmcloud-cognitive-lib",
     "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
