@@ -41,6 +41,7 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-emit-tweeter": "latest",
     "hubot-environment": "latest",
+    "hubot-fb": "^5.0.0",
     "hubot-help": "^0.2.0",
     "hubot-ibmcloud-activity": "latest",
     "hubot-ibmcloud-activity-emitter": "latest",
