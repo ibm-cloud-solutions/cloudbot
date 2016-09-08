@@ -56,6 +56,7 @@ Certain scripts may require other environment variables to be set. Check out the
 * [hubot-ibmcloud-nlc](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-nlc)
 * [hubot-ibmcloud-objectstorage](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-objectstorage)
 * [hubot-ibmcloud-openwhisk](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-openwhisk)
+* [hubot-ibmcloud-redis](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-redis)
 * [hubot-ibmcloud-service-management](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-management)
 * [hubot-ibmcloud-service-status](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-status)
 * [hubot-ibmcloud-service-suggest](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-service-suggest)

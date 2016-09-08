@@ -20,6 +20,7 @@
     "hubot-ibmcloud-nlc",
     "hubot-ibmcloud-objectstorage",
     "hubot-ibmcloud-openwhisk",
+    "hubot-ibmcloud-redis",
     "hubot-ibmcloud-service-management",
     "hubot-ibmcloud-service-status",
     "hubot-ibmcloud-service-suggest",
