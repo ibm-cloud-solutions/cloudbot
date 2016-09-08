@@ -58,6 +58,7 @@
     "hubot-ibmcloud-nlc": "latest",
     "hubot-ibmcloud-objectstorage": "latest",
     "hubot-ibmcloud-openwhisk": "latest",
+    "hubot-ibmcloud-redis": "latest",
     "hubot-ibmcloud-service-management": "latest",
     "hubot-ibmcloud-service-status": "latest",
     "hubot-ibmcloud-service-suggest": "latest",
