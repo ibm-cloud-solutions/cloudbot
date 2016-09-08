@@ -3,7 +3,9 @@ node_js:
   - '4.2'
 install:
   - npm install
-script:
+script: null
 notifications:
-  slack: ${SLACK_TOKEN}
-  webhooks: http://cloud-solutions-travis.mybluemix.net/notifications
+  webhooks: 'http://cloud-solutions-travis.mybluemix.net/notifications'
+branches:
+  only:
+    - master
