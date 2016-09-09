@@ -9,7 +9,9 @@
   },
   "scripts": {
     "preinstall": "npm install hubot-ibmcloud-cognitive-lib",
+    "postversion": "npm run release",
     "start": "hubot -n $HUBOT_NAME -a $ADAPTER",
+    "release": "rm -f cloudbot.zip && zip cloudbot.zip -r * -x .\\* node_modules/\\* cloudbot.zip release.js && node release.js $npm_package_version",
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "author": "ibm-cloud-solutions",
@@ -27,6 +29,7 @@
     "ibm cloud"
   ],
   "devDependencies": {
+    "github": "^3.0.0",
     "shelljs": "^0.7.0"
   },
   "peerDependencies": {
