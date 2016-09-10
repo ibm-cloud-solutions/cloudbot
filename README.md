@@ -12,6 +12,7 @@
 
   * [Setup](#setup)
   * [Usage](#usage)
+  * [Demos](#demos)
   * [Enhancing](#enhancing)
   * [License](#license)
   * [Contribute](#contribute)
@@ -66,6 +67,10 @@ Certain scripts may require other environment variables to be set. Check out the
 * [hubot-ibmcloud-virtualserver](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-virtualserver)
 * [hubot-ibmcloud-weather](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-weather)
 * [hubot-versions](https://github.com/ibm-cloud-solutions/hubot-versions)
+
+## Demos
+
+Please check out our [YouTube videos](https://www.youtube.com/channel/UCr_27wo89y23LoHLG_sKrqw) to learn more about cloudbot and how quickly your DevOps team can embrace our bot capabilities across a variety of integrations.
 
 ## Enhancing
 
