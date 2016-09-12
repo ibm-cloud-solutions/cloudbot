@@ -1,7 +1,7 @@
 {
   "name": "cloudbot",
-  "version": "0.0.22",
   "description": "The famed IBM Cloudbot.  A project that combines the IBM Cloud family of Hubot scripts",
+  "version": "0.0.23",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/ibm-cloud-solutions/cloudbot",
@@ -62,6 +62,7 @@
     "hubot-ibmcloud-nlc": "latest",
     "hubot-ibmcloud-objectstorage": "latest",
     "hubot-ibmcloud-openwhisk": "latest",
+    "hubot-ibmcloud-redis": "latest",
     "hubot-ibmcloud-service-management": "latest",
     "hubot-ibmcloud-service-status": "latest",
     "hubot-ibmcloud-service-suggest": "latest",
