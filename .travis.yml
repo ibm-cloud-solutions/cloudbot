@@ -4,6 +4,14 @@ node_js:
 install:
   - npm install
 script: null
+before_deploy: "rm -f cloudbot.zip && zip cloudbot.zip -r * -x .\\* node_modules/\\* cloudbot.zip"
+deploy:
+  provider: releases
+  api_key: "$GH_OAUTH_TOKEN"
+  file: "cloudbot.zip"
+  skip_cleanup: true
+  on:
+    tags: true
 notifications:
   webhooks: 'http://cloud-solutions-travis.mybluemix.net/notifications'
 branches:
