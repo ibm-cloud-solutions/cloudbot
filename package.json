@@ -1,6 +1,6 @@
 {
   "name": "cloudbot",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "The famed IBM Cloudbot",
   "main": "index.js",
   "repository": {
