@@ -71,7 +71,7 @@ Certain scripts may require other environment variables to be set. Check out the
 
 ## Community
 * [Website and Documentation](https://developer.ibm.com/open/cloudbot/)
-* [Slack](https://dwopen.slack.com/messages/cognitive-cloudbot/):[(join)](https://developer.ibm.com/open/slack-request)
+* [Slack](https://dwopen.slack.com/messages/cognitive-cloudbot/) - [(join)](https://developer.ibm.com/open/slack-request)
 * [Stack Overflow](http://stackoverflow.com/search?q=hubot)
 * [DW Answers](https://developer.ibm.com/answers/smartspace/open/)
 
