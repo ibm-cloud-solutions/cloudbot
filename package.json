@@ -1,7 +1,7 @@
 {
   "name": "cloudbot",
+  "description": "The famed IBM Cloudbot.  A project that combines the IBM Cloud family of Hubot scripts",
   "version": "0.0.23",
-  "description": "The famed IBM Cloudbot",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/ibm-cloud-solutions/cloudbot",
@@ -17,6 +17,10 @@
   "keywords": [
     "hubot",
     "hubot-scripts",
+		"cloud foundry",
+		"paas",
+		"dev ops",
+		"chat ops",
     "bluemix",
     "cloud",
     "watson",
