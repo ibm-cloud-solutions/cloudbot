@@ -12,6 +12,7 @@
 
   * [Setup](#setup)
   * [Usage](#usage)
+  * [Docs & Community](#community)
   * [Demos](#demos)
   * [Enhancing](#enhancing)
   * [License](#license)
@@ -67,6 +68,12 @@ Certain scripts may require other environment variables to be set. Check out the
 * [hubot-ibmcloud-virtualserver](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-virtualserver)
 * [hubot-ibmcloud-weather](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-weather)
 * [hubot-versions](https://github.com/ibm-cloud-solutions/hubot-versions)
+
+## Docs & Community
+* [Website and Documentation](https://developer.ibm.com/open/cloudbot/)
+* [Slack](https://dwopen.slack.com/messages/cognitive-cloudbot/): [join](https://developer.ibm.com/open/slack-request)
+* [Stack Overflow](http://stackoverflow.com/search?q=hubot)
+* [DW Answers](https://developer.ibm.com/answers/smartspace/open/)
 
 ## Demos
 
