@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - '4.2'
+before_install:
+  - npm i -g npm@2
 install:
   - npm install
 script: null
@@ -14,7 +16,3 @@ deploy:
     tags: true
 notifications:
   webhooks: 'http://cloud-solutions-travis.mybluemix.net/notifications'
-branches:
-  only:
-    - master
-    - /v\d+\.\d+\.\d+/
