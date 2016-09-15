@@ -71,7 +71,7 @@
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^4.0.2",
+    "hubot-slack": "^4.0.5",
     "hubot-versions": "latest",
     "lodash": "^4.13.1",
     "request": "^2.74.0",
