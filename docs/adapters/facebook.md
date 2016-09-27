@@ -21,8 +21,3 @@ If you want to use Facebook Messenger to communicate with the the bot get starte
     ![Facebook Messenger Setup](../images/Facebook_Messenger_Setup.png)
 	- Select your page and generate an access token `FB_PAGE_TOKEN`
     ![Facebook Messenger Token](../images/Facebook_Messenger_Token.png)
-
-## Configure Your Bot
-
-To configure your bot for Facebook Messenger chat integration, select the Facebook Messenger icon and supply the information in the fields for *Facebook Page ID*, *Facebook Page Token*, *Facebook App ID*, and *Facebook App Secret*.
-		![Facebook Messenger Bot Wizard Setup](../images/Facebook_Bot_Wizard_Setup.png)

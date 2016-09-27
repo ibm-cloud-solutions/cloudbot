@@ -25,9 +25,3 @@ Now provide a name for your bot integration like __BluemixBot__.
 After this step you will be provided with the Slack token your bot can use to communicate with your team.
 
 ![Hubot Slack Token](../images/Hubot_Slack_Token.png)
-
-## Configure Your Bot
-
-To configure your bot for Slack chat integration, select the Slack icon and supply the Slack token in the field for *Slack Token for Bot Integration:*
-
-![Bot Wizard Slack Token](../images/Slack_Bot_Wizard_Setup.png)
