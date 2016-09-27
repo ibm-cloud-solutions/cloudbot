@@ -15,5 +15,5 @@ applications:
       HUBOT_IBMCLOUD_POWERUSERS: <Slack userIds that require power access>
       HUBOT_SLACK_TOKEN: <Slack token>
   services:
-    - <Cloudant service instance name>
-    - <NLC service instance name>
+    - cloudbot-cloudant
+    - cloudbot-nlc

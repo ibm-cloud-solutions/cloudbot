@@ -80,7 +80,7 @@ Please check out our [YouTube videos](https://www.youtube.com/channel/UCr_27wo89
 
 ## Deploying to IBM Bluemix
 
-Before deploying your custom cloudbot to bluemix, you need to create a manifest.yml file with the properties you need for specific scripts. There is a sample manifest file with minimum required configuration, follow these instructions to customize and deploy a cloudbot to your IBM Bluemix account:
+Before deploying your custom cloudbot to IBM Bluemix, you need to create a manifest.yml file with the properties you need for specific scripts. There is a sample manifest file with minimum required configuration, follow these instructions to customize and deploy a cloudbot to your IBM Bluemix account:
 
 1. Clone this repo and cd to the the folder where you have this repo.
 
@@ -92,7 +92,7 @@ cf login
 3. Create Cloudant and Watson Natural Language Classifier services.
 ```
 cf cs cloudantNoSQLDB Shared cloudbot-cloudant
-cf cs natural_language_classifier standard cloudbot-nls
+cf cs natural_language_classifier standard cloudbot-nlc
 ```
 4. Copy the manifext_sample.yml to manifest.yml and update the properties in manifest file, based on the scripts you need for your bot.
 
