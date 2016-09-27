@@ -1,0 +1,19 @@
+applications:
+- name: <app_name>
+  command: ./node_modules/hubot/bin/hubot --adapter slack
+  path: .
+  instances: 1
+  memory: 1G
+  env:
+      HUBOT_NAME: <Hubot Name>
+      HUBOT_BLUEMIX_API: <Bluemix API URL>
+      HUBOT_BLUEMIX_USER: <Bluemix user>
+      HUBOT_BLUEMIX_ORG: <Bluemix Organization>
+      HUBOT_BLUEMIX_PASSWORD: <Bluemix password>
+      HUBOT_BLUEMIX_SPACE: <Bluemix space>
+      HUBOT_IBMCLOUD_READERUSERS: <Slack userIds that require read access>
+      HUBOT_IBMCLOUD_POWERUSERS: <Slack userIds that require power access>
+      HUBOT_SLACK_TOKEN: <Slack token>
+  services:
+    - cloudbot-cloudant
+    - cloudbot-nlc
